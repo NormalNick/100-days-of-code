@@ -20,6 +20,15 @@ Title Case a Sentence	Jan 04, 2017		View solution
 
 **Link to work:** 
 
+### Day x: Jan 17, 2017
+
+**Today's Progress**: 
+Played around with github.ibm.com
+**Thoughts**: 
+Tried to get ssh keys to work, but it didn't work in the end
+**Link(s) to work**: 
+https://help.github.com/enterprise/2.8/user/articles/working-with-ssh-key-passphrases/
+
 ### Day x: 
 ##### (delete me or comment me out)
 
@@ -28,7 +37,6 @@ Title Case a Sentence	Jan 04, 2017		View solution
 **Thoughts**: 
 
 **Link(s) to work**: 
-
 
 ### Day 1: June 27, Monday
 
